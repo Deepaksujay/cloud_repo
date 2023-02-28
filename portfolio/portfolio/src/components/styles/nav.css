@@ -1,0 +1,13 @@
+.nav-bar-ele{
+    display:inline-block;
+    flex-wrap:wrap;
+    margin: 5px 10px
+}
+.nav-bar-button{
+    color : green;
+    text-decoration : none;
+}
+.routers{
+    position:absolute;
+    margin-right:2px;
+}
